@@ -1,0 +1,5 @@
+ sort -t, -k1 streetEasyListings_4_22_2016.txt | uniq > streetEasyListings_4_22_2016_uniq.txt
+ sort -t, -k1 streetEasyListings_3_2_2016 | uniq > streetEasyListings_3_2_2016_uniq.txt
+ cat streetEasyListings_3_2_2016_uniq.txt streetEasyListings_4_22_2016_uniq.txt > streetEasyListings_3_2_2016_AND_4_22_2016.txt
+ sort -t, -k1 streetEasyListings_3_2_2016_AND_4_22_2016.txt | uniq -d | wc -l
+ sort -t, -k1 streetEasyListings_3_2_2016_AND_4_22_2016.txt | uniq > streetEasyListings_3_2_2016_AND_4_22_2016_uniq.txt

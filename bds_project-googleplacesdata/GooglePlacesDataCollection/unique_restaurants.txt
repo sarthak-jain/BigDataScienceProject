@@ -1,0 +1,30 @@
+[
+{
+  "DBA": "THE LIVE OAK", 
+  "BORO": "QUEENS", 
+  "STREET": "FRESH POND RD", 
+  "BUILDING": "5993", 
+  "ZIPCODE": "11378"
+},
+{
+  "DBA": "THE GRILL", 
+  "BORO": "QUEENS", 
+  "STREET": "70TH RD", 
+  "BUILDING": "10712", 
+  "ZIPCODE": "11375"
+},
+{
+  "DBA": "BAGEL NOSH NYC", 
+  "BORO": "QUEENS", 
+  "STREET": "BROADWAY", 
+  "BUILDING": "3207", 
+  "ZIPCODE": "11106"
+},
+{
+  "DBA": "DEE DAA", 
+  "BORO": "MANHATTAN", 
+  "STREET": "E 44TH ST", 
+  "BUILDING": "155", 
+  "ZIPCODE": "10017"
+}
+]

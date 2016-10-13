@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/jar files GP connect/google-places-api-java-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/places api details connect jar/httpcore-4.3.jar/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/places api details connect jar/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/places api details connect jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/places api details connect jar/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sj182/Desktop/Desktop/subjects/Spring 2016/Big Data Science/Project/places api details connect jar/json-20160212.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
